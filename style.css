@@ -1,0 +1,132 @@
+@import url("https://fonts.googleapis.com/css2?family=Alatsi&family=Fredoka+One&display=swap");
+
+@media (min-width: 992px) {
+  body {
+    background-color: rgb(124, 23, 23) !important;
+  }
+  .welcome {
+    padding-left: 130px;
+    margin-top: 250px !important;
+    font-family: "Alatsi", sans-serif;
+    color: white;
+    font-size: 40px !important;
+  }
+  .login {
+    padding-left: 130px;
+    font-family: "Alatsi", sans-serif;
+    margin-top: 00px;
+    color: white;
+    font-size: 30px !important;
+  }
+  .garis {
+    background-color: aliceblue !important;
+    width: 1px !important;
+    opacity: 30%;
+    margin-left: 800px;
+    margin-top: -300px;
+    height: 450px;
+  }
+  form {
+    margin-left: 450px;
+    margin-top: -500px;
+    height: 200px !important;
+    border-radius: 20px;
+    width: 300px;
+  }
+  .text-center {
+    color: white;
+    text-shadow: 3px 3px 2px black;
+    font-size: 30px;
+    font-family: "Alatsi", sans-serif;
+  }
+  .form-group {
+    padding-top: -101px !important;
+    height: 65px;
+    color: #fff;
+    font-family: "Alatsi", sans-serif;
+    font-size: 15px;
+  }
+  .password {
+    color: #fff;
+    font-family: "Alatsi", sans-serif;
+    font-size: 15px;
+  }
+  .form-control {
+    height: 40px !important;
+  }
+  .btn {
+    height: 40px !important;
+    margin-top: 30px;
+    background-color: rgb(27, 17, 17) !important;
+    border: 2px solid #fff;
+  }
+  .login-porto {
+    margin-top: 10px;
+    color: #fff;
+  }
+}
+
+@media (min-width: 1920px) {
+  body {
+    background-color: rgb(124, 23, 23) !important;
+  }
+  .welcome {
+    padding-left: 185px;
+    margin-top: 400px !important;
+    font-family: "Alatsi", sans-serif;
+    color: white;
+    font-size: 60px !important;
+  }
+  .login {
+    padding-left: 185px;
+    font-family: "Alatsi", sans-serif;
+    margin-top: 00px;
+    color: white;
+    font-size: 40px !important;
+  }
+  .garis {
+    background-color: aliceblue !important;
+    width: 1px !important;
+    opacity: 30%;
+    margin-left: 1150px;
+    margin-top: -400px;
+    height: 600px;
+  }
+  form {
+    margin-left: 650px;
+    margin-top: -650px;
+    height: 400px;
+    border-radius: 20px;
+    width: 400px;
+  }
+  .text-center {
+    color: white;
+    text-shadow: 3px 3px 2px black;
+    font-size: 40px;
+    font-family: "Alatsi", sans-serif;
+  }
+  .form-group {
+    height: 85px;
+    color: #fff;
+    font-family: "Alatsi", sans-serif;
+    font-size: 20px;
+  }
+  .password {
+    color: #fff;
+    font-family: "Alatsi", sans-serif;
+    font-size: 20px;
+  }
+  .form-control {
+    height: 50px !important;
+  }
+  .btn {
+    height: 50px !important;
+    margin-top: 30px;
+    background-color: rgb(27, 17, 17) !important;
+    border: 2px solid #fff;
+  }
+  .login-porto {
+    margin-top: 10px;
+    color: #fff;
+  }
+}
